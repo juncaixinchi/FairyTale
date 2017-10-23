@@ -1,0 +1,7 @@
+[submodule "Blogs"]
+  path = public/Blogs
+  url = https://github.com/juncaixinchi/FairyTale.git
+
+[submodule "FGO"]
+  path = public/FGO
+  url = https://github.com/juncaixinchi/FGO.git
